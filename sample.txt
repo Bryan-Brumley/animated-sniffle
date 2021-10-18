@@ -1,0 +1,2 @@
+This a sample file to show how to use vim to commit and push on the command line.
+
